@@ -7,7 +7,7 @@
     "@babel/plugin-proposal-object-rest-spread": "^7.6.2",
     "eject": "^0.0.4",
     "moment": "^2.24.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "react": "^16.11.0",
     "react-addons-shallow-compare": "^15.6.2",
     "react-dates": "^21.3.1",
